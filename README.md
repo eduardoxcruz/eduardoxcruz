@@ -1,5 +1,9 @@
 # 💫 About Me:
-- im currently working on my own projects 🔨👨‍💻<br>- Im looking to collaborate with other devs on .NET 🤝👥<br>- Im currently learning Computer Science 📚🧠<br>- Ask me about cryptocurrency - desktop development 💬💰<br>- Im looking for team working 👥🔍
+🔨👨‍💻 Im currently working on my own projects<br>
+🤝👥 Im looking to collaborate with other devs on .NET<br>
+📚🧠 Im currently learning Computer Science<br>
+💬💰 Ask me about cryptocurrency - desktop development<br>
+👥🔍 Im looking for team working
 
 
 ## 🌐 Socials:
