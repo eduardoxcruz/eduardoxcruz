@@ -16,9 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eduardoxcruz&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoxcruz&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=EddxCr20)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eduardoxcruz&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
