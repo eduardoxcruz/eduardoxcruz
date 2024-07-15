@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔨👨‍💻 Im currently working on my own projects<br>
-🤝👥 Im looking to collaborate with other devs on .NET<br>
 📚🧠 Im currently learning Computer Science<br>
 
 
