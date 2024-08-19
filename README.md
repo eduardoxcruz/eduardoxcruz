@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔨👨‍💻 Im currently working on my own projects<br>
-📚🧠 Im currently learning Front-End, Flutter and mastering .NETdepth<br>
+📚🧠 Im currently learning Front-End, Flutter and mastering .NET in depth<br>
 
 
 ## 🌐 Socials:
